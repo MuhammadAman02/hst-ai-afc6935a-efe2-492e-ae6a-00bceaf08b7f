@@ -14,3 +14,5 @@
 
 "change the text to hello HST AI"
 
+"change text to red color"
+
