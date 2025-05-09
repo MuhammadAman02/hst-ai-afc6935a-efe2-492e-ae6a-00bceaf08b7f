@@ -8,3 +8,5 @@
 
 "delete src/app/layout.tsx"
 
+"update the text to say hello HST AI"
+
