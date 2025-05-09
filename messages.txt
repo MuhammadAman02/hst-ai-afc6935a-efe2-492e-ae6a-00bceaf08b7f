@@ -12,3 +12,5 @@
 
 "change text to hello HST"
 
+"change the text to hello HST AI"
+
