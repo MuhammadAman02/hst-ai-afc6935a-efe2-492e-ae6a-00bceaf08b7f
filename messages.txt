@@ -6,3 +6,5 @@
 
 "CAN U RENAME GLOBALS.CSS TO INDEX.CSS IN src/app/"
 
+"delete src/app/layout.tsx"
+
